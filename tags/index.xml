@@ -1,12 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TM的技術隨筆 – Tags</title>
-    <link>https://tech.most.tw/tags/</link>
-    <description>Recent content in Tags on TM的技術隨筆</description>
+    <title>Wei-Chih Tech notes – Tags</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Wei-Chih Tech notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     
-	  <atom:link href="https://tech.most.tw/tags/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       
